@@ -1,1 +1,1 @@
-# AI-Health-Bio-Data-Team-4-Professor-yoon-
+첫 번째 파일이 전체적인 개요이고 두 번째는 좀 더 이해하기 쉽게 설명해놓은 파일입니다
