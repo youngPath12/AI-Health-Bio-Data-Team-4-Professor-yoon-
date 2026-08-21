@@ -1,0 +1,22 @@
+# ADNI data-use agreement: never commit raw or participant-level data.
+data/adni_all/
+data/processed/*.csv
+data/processed/*.parquet
+
+# Private planning and local-only reference documents.
+private/
+docs/*.docx
+docs/mvp_analysis_portfolio_summary_ko.md
+
+# Notebook and OS runtime artifacts.
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+notebooks/.DS_Store
+
+# Local environments and editor settings.
+.venv/
+venv/
+env/
+.vscode/
+.idea/
